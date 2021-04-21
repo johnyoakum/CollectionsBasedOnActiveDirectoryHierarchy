@@ -1,6 +1,6 @@
 # Create Collections Based On Active Directory Hierarchy
 
-I wanted to find a way to in essence mimic my Active Directory Structure within MEMCM with Collecions including the OU/Folder structure.
+I wanted to find a way to in essence mimic my Active Directory Structure within MEMCM with Collections including the OU/Folder structure.
 
 I wrote this script as an easier and repeatable way to create that structure and maintain it, flexible enough to handle any AD structure.
 
